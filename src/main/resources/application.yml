@@ -1,3 +1,10 @@
 spring:
   banner:
     location: classpath:banner.txt
+  profiles:
+    active: dev
+server:
+  port: 8080
+#logging:
+#  level:
+#    org.springframework: DEBUG

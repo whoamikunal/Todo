@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Todo dev (Playground)
+  h2:
+    console:
+      enabled: true
+
+
